@@ -33,7 +33,8 @@ The **CISM exam** tests your knowledge and skills in the following areas:
   - Developing and implementing an incident response plan.
   - Managing security incidents and conducting post-incident reviews.
  
-    
+    ![image](https://github.com/user-attachments/assets/c6601b52-d274-45cf-b3fe-59cf339d18a2)
+
 
 ### **Job Opportunities 💼**
 
